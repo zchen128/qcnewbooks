@@ -1,2 +1,22 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<div>
+  <h1>Budgeted Income Statement</h1>
+
+  <div>
+    <span>Gross Revenue</span>
+    <span>$150,000</span>
+  </div>
+  <div>
+    <span>Less: Returns</span>
+    <span>(5,000)</span>
+  </div>
+
+  <div>
+    <span>Net Revenue</span>
+    <span>$145,000</span>
+  </div>
+  <div>
+    <span>Net Income</span>
+    <span>$85,000</span>
+  </div>
+  
+</div>
