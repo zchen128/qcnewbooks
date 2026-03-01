@@ -7,7 +7,7 @@
   </div>
   <div>
     <span>Less: Returns</span>
-    <span>(5,000)</span>
+    <span>($5,000)</span>
   </div>
 
   <div>
@@ -18,5 +18,5 @@
     <span>Net Income</span>
     <span>$85,000</span>
   </div>
-  
+
 </div>
