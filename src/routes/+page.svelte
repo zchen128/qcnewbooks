@@ -1,4 +1,19 @@
-<h1>QC NewBooks</h1>
-<h2>General Ledger</h2>
-<p>Track debits and credits for QC Consulting.</p>
-<p>Built by a Queens College accounting student.</p>
+<div>
+  <h1>Budgeted Income Statement</h1>
+    <div>
+    <span>Gross Revenue</span>
+    <span>$150,000</span>
+  </div>
+    <div>
+    <span>Less: Returns</span>
+    <span>($5,000)</span>
+  </div>
+    <div>
+    <span>Net Revenue</span>
+    <span>$145,000</span>
+  </div>
+    <div>
+    <span><strong>Net Income</strong></span>
+    <span>$85,000</span>
+  </div>
+</div>
