@@ -1,2 +1,4 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<h1>QC NewBooks</h1>
+<h2>General Ledger</h2>
+<p>Track debits and credits for QC Consulting.</p>
+<p>Built by a Queens College accounting student.</p>
